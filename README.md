@@ -5,6 +5,7 @@ Here are a few ENSTA projects/labs (TD) that may be useful for future students :
 cGAN: https://colab.research.google.com/drive/1eQ7jvrauJI3DgqFvp_RN0Qvh2Bj94Nfr#scrollTo=OV7huJjGspDs
 
 CUDA matrix multiplication implementation (in C): https://colab.research.google.com/drive/12yXVkfyuu4h8GrDfExvkmVaCu7-zS_DO?usp=sharing
+CUDA MLP classification implementation (in C): https://colab.research.google.com/drive/1YFOo36v8jqatqXeGz45KNjkzLuQ6qtcJ?usp=sharing
 
 Translator using Attention : https://colab.research.google.com/drive/1rNEojuBPMilV5kHUDIan3kHSmVClwV90?usp=sharing
 
